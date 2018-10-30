@@ -1,0 +1,1 @@
+web: gunicorn heritage-svg.wsgi
